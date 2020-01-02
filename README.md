@@ -6,11 +6,11 @@ Repo for created projects, mainly out of interest and to improve my skills. Aim 
 This is a tracker of my progress for the IBM Data Science certificate offered through coursera. 
 
 - [x] What is Data Science?
-[Certificate](https://www.coursera.org/account/accomplishments/certificate/RVXGALDYMDHN)
+- [Certificate](https://www.coursera.org/account/accomplishments/certificate/RVXGALDYMDHN)
 - [x] Open Source Tools for Data Science
-[Certificate](https://www.coursera.org/account/accomplishments/certificate/4HLVBATT6FKE)
+- [Certificate](https://www.coursera.org/account/accomplishments/certificate/4HLVBATT6FKE)
 - [x] Data Science Methodology
-[Certificate](https://www.coursera.org/account/accomplishments/certificate/QEKBFMK9C38P)
+- [Certificate](https://www.coursera.org/account/accomplishments/certificate/QEKBFMK9C38P)
 - [ ] Python for Data Science and AI
   - [x] Week 1
   - [ ] Week 2
