@@ -14,7 +14,7 @@ This is a tracker of my progress for the IBM Data Science certificate offered th
 - [ ] Python for Data Science and AI
   - [x] Week 1
   - [x] Week 2
-  - [ ] Week 3
+  - [x] Week 3
   - [ ] Week 4
   - [ ] Week 5
   
