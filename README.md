@@ -14,8 +14,8 @@ This is a tracker of my progress for the IBM Data Science certificate offered th
 - [x] Python for Data Science and AI
 - [Certificate](https://www.coursera.org/account/accomplishments/certificate/3REDEW2RNAAK)
 - [ ] Databases and SQL for Data Science
-  - [ ] Week 1
-  - [ ] Week 2
+  - [x] Week 1
+  - [x] Week 2
   - [ ] Week 3
   - [ ] Week 4
   
